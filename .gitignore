@@ -1,6 +1,6 @@
 *
 !.gitignore
-!dist/index.html
-!dist/favicon.ico
-!dist/assets/index.671c16d7.css
-!dist/assets/index.bdf5efa4.js
+!dist
+!dist/*
+!dist/**
+!dist/**/*
